@@ -8,6 +8,6 @@ Texto normal *cursiva*
 - Dos
 - Tres
 
-# 1/2 de costillas
-# 1 coca
-# fernet
++ 1/2 de costillas
++ 1 coca
++ fernet
