@@ -9,5 +9,5 @@ Texto normal *cursiva*
 - Tres
 
 + 1/2 de costillas
-+ 1 coca
++ 2 coca
 + fernet
